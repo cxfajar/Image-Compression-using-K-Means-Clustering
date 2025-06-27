@@ -38,7 +38,7 @@ This project demonstrates how to use the **K-Means clustering algorithm** for co
  ![image](https://github.com/user-attachments/assets/47cf4760-4f40-4f8d-9c83-ca4a769b3149)
  
 
-> Replace the image paths above (`assets/original.png`, `assets/compressed.png`) with your actual image file locations.
+
 
 ---
 
